@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Comp 496 Project 1
+title: Comp 496 Project 1 (NEW UPDATE)
 email: tony.nguyen.42@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the testsite created for CIT 496p Project 1. Hello Adam Kaplan!
+  This is now an updated _config.yml file...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tonynguyen98
