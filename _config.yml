@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the testsite created for CIT 496p Project 1. Hello Adam Kaplan!
   This is now an updated _config.yml file...
 #baseurl: "" # the subpath of your site, e.g. /blog
-baseurl: "/bad_route" # the subpath of your site, e.g. /blog
+baseurl: "/bad_gumball_darwin" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tonynguyen98
 github_username:  tonynguyen98
